@@ -16,18 +16,16 @@ Una aplicación web es basicamente un software de cliente-servidor la cual permi
 
 Una herramienta ofimática es un programa o una aplicación la cual nos permite manipular la información con la que se esta trabajando habitualmente. Como por ejemplo Office 365.
 
-5. Herramientas de Google:
+5. [Herramientas de Google:](https://www.google.com/intl/es-419/chrome/browser-tools/ "Herramientas de Google")
 
 | Aplicaciones  | Visto  |
 |----------|----------|
 |Google Docs| ![Tick](https://github.com/paulamoreno27/SMX2-M8UF1A2-Evaluaci-n-inicial-MorenoLe-nPaula/blob/main/captura%20punto%205.png?raw=true "Tick") |
-|Google Slides|
-|Google Sheets|
-|Google Calendar|
-|Google Meet|
+|Google Slides| ![Tick](https://github.com/paulamoreno27/SMX2-M8UF1A2-Evaluaci-n-inicial-MorenoLe-nPaula/blob/main/captura%20punto%205(2).png?raw=true "Tick") |
+|Google Sheets| ![Tick](https://github.com/paulamoreno27/SMX2-M8UF1A2-Evaluaci-n-inicial-MorenoLe-nPaula/blob/main/captura%20punto%205.png?raw=true "Tick") |
+|Google Calendar| ![Calendario](https://github.com/paulamoreno27/SMX2-M8UF1A2-Evaluaci-n-inicial-MorenoLe-nPaula/blob/main/captura%20punto%205%20(3).png?raw=true "Calendario") |
+|Google Meet| ![Ordenador](https://github.com/paulamoreno27/SMX2-M8UF1A2-Evaluaci-n-inicial-MorenoLe-nPaula/blob/main/captura%20punto%205%20(4).png?raw=true "Ordenador") |
 |...|...|
-
-[link](https://www.google.com/intl/es-419/chrome/browser-tools/ "Herramientas de Google")
 
 6. ¿Qué es HTML?
 
